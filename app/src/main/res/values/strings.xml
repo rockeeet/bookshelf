@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="bookshelf_title">Discover books</string>
+    <string name="bookshelf_empty">No books found</string>
+    <string name="bookshelf_empty_description">Try searching for something else.</string>
+    <string name="loading_books">Loading books…</string>
+    <string name="network_error_title">Something went wrong</string>
+    <string name="network_error_message">We couldn’t load the books. Check your internet connection and try again.</string>
+    <string name="retry">Try again</string>
+    <string name="book_details_title">Book details</string>
+    <string name="book_description">Description</string>
+    <string name="book_authors">Authors</string>
+    <string name="book_publisher">Publisher</string>
+    <string name="book_published_date">Published</string>
+    <string name="book_rating">Rating: %1$s</string>
+    <string name="book_ratings_count">%1$s ratings</string>
+    <string name="book_categories">Categories</string>
+    <string name="unknown_author">Unknown author</string>
+    <string name="unknown_publisher">Unknown publisher</string>
+    <string name="unknown_publication_date">Publication date unavailable</string>
+    <string name="no_description">No description available.</string>
+    <string name="no_rating">No ratings yet</string>
+    <string name="no_categories">No categories available</string>
+    <string name="unknown_book_title">Untitled book</string>
+    <string name="book_cover_description">Cover of %1$s</string>
+    <string name="back_button_description">Go back</string>
+    <string name="retry_button_description">Retry loading books</string>
+    <string name="additional_information">Additional information</string>
+    <string name="search_description">Search</string>
+    <string name="search_error">Couldn\'t load new results. Showing previous results.</string>
+</resources>
