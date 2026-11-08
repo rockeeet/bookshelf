@@ -2,6 +2,9 @@
 
 An Android application for browsing and searching books using the Google Books API.
 
+## About
+This project was developed as part of the **Android Basics with Compose** course by Google, Unit 5.
+
 ## Features
 - Browse books fetched from Google Books API
 - Search books by title or keywords
